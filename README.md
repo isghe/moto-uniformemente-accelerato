@@ -1,3 +1,7 @@
+# Moto uniformemente accelerato
+## Equazione di Torricelli - equazione senza il tempo
+### Derivazione tramite il calcolo differenziale
+
 Per definizione:
 
 $${dv\over dt} = {a}$$ 
@@ -10,7 +14,7 @@ ed essendo per definizione:
 
 $${dx\over dt} = {v}$$
 
-si ottiene:
+si ottiene per sostituzione:
 
 $${v*dv\over dx} = {a}$$
 
@@ -26,11 +30,15 @@ ergo:
 
 $${x} = {v^2\over(2*a)}$$
 
-in cui ponendo `v = 5 m/s` ed `a = 9.81 m/s^2`:
-
-$${x}={25\over(2*9.81)}=1.27... m$$
-
 c.v.d.
+
+### Esempio:
+```
+Trascurando la resistenza aerodinamica e la spinta di Archimede, da che altezza bisogna saltare per schiantarsi al suolo ad una velocità di 5 m/s?
+```
+ponendo `v = 5 m/s` e `a = 9.81 m/s^2` si ottiene:
+
+$${x}={25\over(2*9.81)} m = 1.27... m$$
 
 ---
 

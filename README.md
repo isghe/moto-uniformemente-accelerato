@@ -33,9 +33,9 @@ $${x} = {v^2\over(2*a)}$$
 c.v.d.
 
 ### Esempio:
-```
-Trascurando la resistenza aerodinamica e la spinta di Archimede, da che altezza bisogna saltare per schiantarsi al suolo ad una velocità di 5 m/s?
-```
+
+> Trascurando la resistenza aerodinamica e la spinta di Archimede, da che altezza bisogna saltare per schiantarsi al suolo ad una velocità di `5 m/s`?
+
 ponendo `v = 5 m/s` e `a = 9.81 m/s^2` si ottiene:
 
 $${x}={25\over(2*9.81)} m = 1.27... m$$
